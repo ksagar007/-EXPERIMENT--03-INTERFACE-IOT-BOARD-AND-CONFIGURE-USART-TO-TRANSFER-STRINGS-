@@ -54,8 +54,8 @@ int main(void) {
   MX_USART2_UART_Init();
 
   while (1) {
-    printf ("Yuva krishna k\n");
-    printf ("212222110056 \n");
+    printf ("K SAGAR KRISHNA\n");
+    printf ("212222110037 \n");
     HAL_Delay (500);
   }
 }
